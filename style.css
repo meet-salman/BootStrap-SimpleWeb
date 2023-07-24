@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.btn {
+    border: 1px solid black;
+}
+
+.sec-padd {
+    padding: 50px;
+}
+
+.mt-5 {
+    margin-top: 50px;
+}
+
+.mb-4 {
+    margin-bottom: 40px;
+}
+
+.footer-copyright a{
+    text-decoration: none;
+}
